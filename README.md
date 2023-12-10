@@ -1,7 +1,7 @@
 # object_following
 # Neuromechanics Project: Object Tracking and Manipulation
 
-This project, developed for a Neuromechanics class, aims to replicate human visual attention to objects within the environment. The ultimate goal is to leverage visual feedback to control a humanoid soft robot for the manipulation of large objects. For a more in-depth exploration of the project background, refer to the [presentation slides](#).
+This project, developed for a Neuromechanics class, aims to replicate human visual attention to objects within the environment. The ultimate goal is to leverage visual feedback to control a humanoid soft robot for the manipulation of large objects. For a more in-depth exploration of the project background, refer to the [presentation slides](https://sites.google.com/view/danielcheney/portfolio/object-following).
 
 ## Object Detection with YOLOv8
 
@@ -18,7 +18,3 @@ The control signals for angle changes are sent to an Arduino, which, in turn, in
 ## Video Showcase
 
 Check out the project in action in [this video](https://youtu.be/zmI6Sb6QFVg).
-
-## Portfolio
-
-For more details and a comprehensive overview of my projects, visit my [portfolio](https://sites.google.com/view/danielcheney/portfolio/6d-pose-estimation).
