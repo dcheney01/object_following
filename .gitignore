@@ -1,0 +1,13 @@
+.vscode
+*.pt
+*.jpg
+*.png
+*.txt
+*.json
+*.csv
+*.log
+*latest-run
+*.yaml
+*.wandb
+*.cache
+events.out.tfevents.*
